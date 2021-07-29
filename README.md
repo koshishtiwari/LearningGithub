@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koshishtiwari my official name is Gaurav Tiwari
+- 👋 Hi, I’m @koshishtiwari, My official name is Gaurav Tiwari
 - 👀 I’m interested in software development and design
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on any fun projects.
